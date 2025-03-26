@@ -307,7 +307,13 @@ h6 {
     align-items: center;
   }
 
-  .navmenu li {
+  .subtitle {
+    font-size: 0.9rem; /* Adjust size as needed */
+    margin: 0; /* Remove extra spacing */
+    color: #666; /* Optional: Change color */
+  }
+
+ .navmenu li {
     position: relative;
   }
 
