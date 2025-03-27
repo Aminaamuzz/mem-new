@@ -92,7 +92,7 @@ h4,
 h5,
 h6 {
   color: var(--heading-color);
-  font-family: var(--heading-font);
+  font-family: 'Poppins', sans-serif;
 }
 
 /* PHP Email Form Messages
@@ -242,8 +242,8 @@ h6 {
 }
 
 .header .logo img {
-  max-height: 36px;
-  margin-right: 8px;
+  max-height: 40px;
+  margin-right: 10px;
 }
 
 .header .logo h1 {
